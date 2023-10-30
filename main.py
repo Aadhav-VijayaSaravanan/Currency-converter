@@ -6,7 +6,7 @@ endpoint = f"https://openexchangerates.org/api/latest.json?app_id={api_key}"
 # Initialize the variable to hold the data
 data = None  # an empty variable for data
 # Ask the user to input currencies in desired format and split it into an array
-input_currencies = input("Input your currencies in the format - USD to EUR - or usd to eur: ").split()
+input_currencies = input("Please enter your currencies in the following format: USD to EUR or usd to eur: ").split()
 # Convert the input quantity to a decimal number
 quantity = float(input_currencies[0])
 # Convert the primary currency to uppercase
