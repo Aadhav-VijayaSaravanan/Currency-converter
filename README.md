@@ -1,5 +1,5 @@
-# Quodro
-Quodro is a Python tool for real-time currency and cryptocurrency conversion.
+# Quadro
+Quadro is a Python tool for real-time currency and cryptocurrency conversion.
 
 ## Table of Contents
 
