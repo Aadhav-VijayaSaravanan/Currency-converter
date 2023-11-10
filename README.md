@@ -41,7 +41,16 @@ To get started with **Import API - Currency Converter**, follow these steps:
 
 ### Prerequisites
 
-List any software or tools that users need to have installed before they can use your project.
+Before you can use **Import API - Currency Converter**, ensure that you have the following prerequisites in place:
+
+- **Python:** The tool is written in Python, so you need to have Python installed on your system. You can download Python from the official [Python website](https://www.python.org/).
+
+- **API Key:** To access real-time currency conversion data, you must obtain an API key from [CurrencyFreaks](https://currencyfreaks.com/).
+
+- **Requests Library:** The tool relies on the `requests` library to make API requests. Make sure it's installed by running:
+
+  ```bash
+  pip install requests
 
 ### Installation
 
