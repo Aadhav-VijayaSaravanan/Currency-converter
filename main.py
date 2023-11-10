@@ -11,8 +11,7 @@ def main(data):
         if isinstance(float(inputi[0]), float) or isinstance(int(inputi[0]), int):
             quantity = float(inputi[0])
         else:
-            print("Trying to do something? Input only numeric digits, not in alphabetical form")
-            return
+            print("Trying to do something? Input only numeric digits, not in alphabetical form.
 
     if primary in data["rates"] and secondary in data["rates"]:
         primary_rate = data["rates"][primary]
