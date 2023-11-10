@@ -24,8 +24,6 @@ Quadro is a Python tool for real-time currency and cryptocurrency conversion.
 - **Cryptocurrency Support:** Seamlessly convert both traditional and digital currencies.
 - **Currency Strength Analysis:** Gain valuable insights into currency strength within the global market.
 
-**Import API - Currency Converter** is engineered to provide efficiency and precision in currency conversions, making it an indispensable resource for professionals and individuals alike. Start simplifying your currency conversions with confidence today!
-
 ## Getting Started
 
 To get started with **Import API - Currency Converter**, follow these steps:
