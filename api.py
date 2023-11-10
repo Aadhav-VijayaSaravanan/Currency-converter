@@ -1,14 +1,13 @@
-import os
 import requests
-import main
 
-
-api_key = "YOUR API KEY from currencyfreaks.com"
-endpoint = f"https://api.currencyfreaks.com/v2.0/rates/latest?apikey={api_key}"
-response = requests.get(endpoint)
+app_id = "YOUR API KEY"
+base_url = "https://openexchangerates.org/api/"
+latest_endpoint = "latest.json"
+url = f"{base_url}{latest_endpoint}?app_id={app_id}"
+response = requests.get(url)
 
 if response.status_code == 200:
-        data = response.json()
-        main.main()
+    data = response.json()
+    rates = data.get("rates")
 else:
-        print(f"Failed to retrieve data. Status code: {response.status_code}")
+    print(f"Failed to retrieve data. Status code: {response.status_code}")
