@@ -1,5 +1,5 @@
 # Quadro
-## A Real-Time Currency and Cryptocurrency Converter
+## A Real-Time Currency and Cryptocurrency Convertion tool
 
 ## Table of Contents
 
