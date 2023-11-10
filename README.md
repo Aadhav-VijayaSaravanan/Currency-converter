@@ -8,7 +8,6 @@
 - [Getting Started](#getting-started)
   - [Prerequisites](#prerequisites)
   - [Installation](#installation)
-- [Usage](#usage)
 - [API Usage](#api-usage)
 - [Contributing](#contributing)
 - [License](#license)
@@ -26,7 +25,7 @@
 
 ## Getting Started
 
-To get started with **Import API - Currency Converter**, follow these steps:
+To get started with **Import API - Quadro**, follow these steps:
 
 1. **Obtain an API Key:** Sign up for an API key from [CurrencyFreaks](https://currencyfreaks.com/). You will need this API key to access currency conversion data.
 
@@ -85,23 +84,6 @@ Follow these step-by-step instructions to install **Import API - Currency Conver
    1. Execute the Python script that contains the `main()` function. This function will prompt you for conversion details.
       ```bash
       python main.py
-
-## Usage
-
-   Here's a sample code snippet that shows how to use the Currency Converter in your Python script:
-
-   ```python
-   # Import the Currency Converter module
-   from currency_converter import CurrencyConverter
-
-   # Create an instance of the CurrencyConverter class
-   converter = CurrencyConverter()
-
-   # Convert 100 USD to EUR
-   result = converter.convert(100, 'USD', 'EUR')
-
-   # Print the result
-   print(f"100 USD is approximately {result} EUR")
 
 ## API Usage
 
