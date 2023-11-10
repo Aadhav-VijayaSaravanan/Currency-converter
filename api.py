@@ -3,7 +3,7 @@ import requests
 import main
 
 
-api_key = os.environ["api"]
+api_key = "YOUR API KEY from currencyfreaks.com"
 endpoint = f"https://api.currencyfreaks.com/v2.0/rates/latest?apikey={api_key}"
 response = requests.get(endpoint)
 
