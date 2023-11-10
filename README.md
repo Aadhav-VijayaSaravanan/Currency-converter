@@ -28,7 +28,16 @@ Quodro is a Python tool for real-time currency and cryptocurrency conversion.
 
 ## Getting Started
 
-Instructions on how to get a copy of your project up and running on a local machine.
+To get started with **Import API - Currency Converter**, follow these steps:
+
+1. **Obtain an API Key:** Sign up for an API key from [CurrencyFreaks](https://currencyfreaks.com/). You will need this API key to access currency conversion data.
+
+2. **Edit the Script:** Open your Python script and locate the `api_key` variable. Replace the placeholder with your obtained API key.
+
+3. **Install Dependencies:** Ensure you have the `requests` library installed. You can install it using the following command:
+
+   ```bash
+   pip install requests
 
 ### Prerequisites
 
