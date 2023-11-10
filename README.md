@@ -10,7 +10,6 @@
   - [Installation](#installation)
 - [API Usage](#api-usage)
 - [Contributing](#contributing)
-- [License](#license)
 
 # About
 
