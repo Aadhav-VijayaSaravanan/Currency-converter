@@ -87,4 +87,4 @@ Follow these step-by-step instructions to install **Import API - Currency Conver
 
 ## API Usage
 
-If your project has an API, describe how to use it. Include endpoint URLs, request examples, and expected responses.
+**Note**: This project utilizes the Open Exchange Rates API for real-time currency and cryptocurrency conversion. We are grateful for the services provided by Open Exchange Rates to enhance the functionality of this tool.
