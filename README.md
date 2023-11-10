@@ -1,5 +1,5 @@
 # Quadro
-`Quadro is a Python tool for real-time currency and cryptocurrency conversion.`
+## A Real-Time Currency and Cryptocurrency Converter
 
 ## Table of Contents
 
