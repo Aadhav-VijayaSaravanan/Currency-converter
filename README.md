@@ -69,7 +69,7 @@ Follow these step-by-step instructions to install **Import API - Currency Conver
    
 4. **Installing Dependencies**
 
-To ensure that you have the necessary dependencies, follow these steps:
+   To ensure that you have the necessary dependencies, follow these steps:
 
    1. Make sure you have Python installed on your system.
 
