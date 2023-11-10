@@ -1,5 +1,5 @@
-# Quadro
-**Quadro** - *A Currency and Cryptocurrency Conversion Tool*
+# Eobard
+**Eobard** - *A Currency and Cryptocurrency Conversion Tool*
 
 ## Table of Contents
 
@@ -14,7 +14,7 @@
 
 # About
 
-**Quadro** is a Python-based tool designed to streamline currency conversions by leveraging real-time exchange rate data from the OpenExchangeRates API. It serves as a valuable utility for a wide range of professional and personal scenarios, from optimizing international financial transactions to ensuring precise currency conversion accuracy.
+**Eobard** is a Python-based tool designed to streamline currency conversions by leveraging real-time exchange rate data from the OpenExchangeRates API. It serves as a valuable utility for a wide range of professional and personal scenarios, from optimizing international financial transactions to ensuring precise currency conversion accuracy.
 
 ## Key Features
 
@@ -25,7 +25,7 @@
 
 ## Getting Started
 
-To get started with **Import API - Quadro**, follow these steps:
+To get started with **Import API - Eobard**, follow these steps:
 
 1. **Obtain an API Key:** Sign up for an API key from [Open Exchange Rates](https://openexchangerates.org/). You will need this API key to access currency conversion data.
 
@@ -45,13 +45,13 @@ Follow these step-by-step instructions to install **Import API - Currency Conver
 1. **Clone the Repository:** Start by cloning the project's repository to your local machine. You can use the following Git command to do this:
 
    ```bash
-   git clone https://github.com/Aadhav-VijayaSaravanan/quadro.git
+   git clone https://github.com/Aadhav-VijayaSaravanan/Eobard.git
    Navigating to the Project Directory
 
 2. **To enter the project directory, you can use the following command in your terminal:**
 
    ```bash
-   cd quadro
+   cd Eobard
 3. **Editing the API Key**
 
    To configure your API key, follow these steps:
