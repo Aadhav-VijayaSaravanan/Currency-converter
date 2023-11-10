@@ -46,6 +46,7 @@ Follow these step-by-step instructions to install **Import API - Currency Conver
    ```bash
    git clone https://github.com/Aadhav-VijayaSaravanan/Eobard.git
    Navigating to the Project Directory
+Or, you have the option to download the project as a ZIP file from the repository and, upon successful download, unzip the contents.
 
 2. **To enter the project directory, you can use the following command in your terminal:**
 
