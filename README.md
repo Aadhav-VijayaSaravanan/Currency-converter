@@ -30,7 +30,7 @@ To get started with **Import API - Eobard**, follow these steps:
 
 2. **Python:** This tool is written in Python, so you need to have Python installed on your system. You can download Python from the official [Python website](https://www.python.org/).
 
-3. **Edit the Script:** Open your Python script and locate the `api_key` variable. Replace the placeholder with your obtained API key.
+3. **Edit the Script:** Open your Python script and locate the `api_id` variable. Replace the placeholder with your obtained API key.
 
 4. **Install Dependencies:** Ensure you have the `requests` library installed. You can install it using the following command:
 
