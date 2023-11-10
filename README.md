@@ -80,7 +80,7 @@ Follow these step-by-step instructions to install **Import API - Currency Conver
    ```bash
    pip install requests
 
-5. ## Running the Tool
+5. **Running the Tool**
 
    To start using **Import API - Currency Converter**, follow these steps:
 
