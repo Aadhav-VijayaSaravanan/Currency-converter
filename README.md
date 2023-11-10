@@ -41,8 +41,6 @@ To get started with **Import API - Currency Converter**, follow these steps:
    ```bash
    pip install requests
 
-### Installation
-
 ## Installation
 
 Follow these step-by-step instructions to install **Import API - Currency Converter**:
@@ -50,36 +48,46 @@ Follow these step-by-step instructions to install **Import API - Currency Conver
 1. **Clone the Repository:** Start by cloning the project's repository to your local machine. You can use the following Git command to do this:
 
    ```bash
-   git clone https://github.com/your-username/your-repo.git
-Replace the URL with the URL of your repository.
+   git clone https://github.com/Aadhav-VijayaSaravanan/quadro.git
+   Navigating to the Project Directory
 
-Navigate to the Project Directory: Use the cd command to enter the project directory:
+2. **To enter the project directory, you can use the following command in your terminal:**
 
-bash
-Copy code
-cd your-repo
-Replace your-repo with the name of the directory where you cloned the repository.
+   ```bash
+   cd quadro
+3. **Editing the API Key**
 
-Edit the API Key: Open the Python script within the project directory and locate the api_key variable. Replace the placeholder with your obtained API key from CurrencyFreaks.
+   To configure your API key, follow these steps:
 
-Install Dependencies: Ensure that you have the requests library installed. You can install it using the following command:
+   1. Open the Python script located within the project directory.
 
-bash
-Copy code
-pip install requests
-Run the Tool: To start using Import API - Currency Converter, execute the Python script that contains the main() function. This function will prompt you for conversion details.
+   2. Locate the `api_key` variable in the Python script.
 
-bash
-Copy code
-python your_script.py
-Replace "your_script.py" with the actual name of your script.
+   3. Replace the placeholder with the API key you obtained from CurrencyFreaks.
 
-By following these steps, you will have successfully installed and configured Import API - Currency Converter on your local machine and will be ready to perform accurate and real-time currency and cryptocurrency conversions.
+   This step is essential for authenticating your access to the currency conversion API. Make sure to save your changes in the Python script after replacing the API key.
+   
+4. **Installing Dependencies**
 
-vbnet
-Copy code
+To ensure that you have the necessary dependencies, follow these steps:
 
-These instructions guide users through the process of cloning the repository, navigating to the proj
+   1. Make sure you have Python installed on your system.
+
+   2. Open your terminal or command prompt.
+
+   3. Use the following command to install the `requests` library, if it's not already installed:
+
+   ```bash
+   pip install requests
+
+5. ## Running the Tool
+
+   To start using **Import API - Currency Converter**, follow these steps:
+
+   1. Execute the Python script that contains the `main()` function. This function will prompt you for conversion details.
+      ```bash
+      python main.py
+
 
 ## Usage
 
