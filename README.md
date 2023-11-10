@@ -43,7 +43,43 @@ To get started with **Import API - Currency Converter**, follow these steps:
 
 ### Installation
 
-Step-by-step instructions on how to install your project.
+## Installation
+
+Follow these step-by-step instructions to install **Import API - Currency Converter**:
+
+1. **Clone the Repository:** Start by cloning the project's repository to your local machine. You can use the following Git command to do this:
+
+   ```bash
+   git clone https://github.com/your-username/your-repo.git
+Replace the URL with the URL of your repository.
+
+Navigate to the Project Directory: Use the cd command to enter the project directory:
+
+bash
+Copy code
+cd your-repo
+Replace your-repo with the name of the directory where you cloned the repository.
+
+Edit the API Key: Open the Python script within the project directory and locate the api_key variable. Replace the placeholder with your obtained API key from CurrencyFreaks.
+
+Install Dependencies: Ensure that you have the requests library installed. You can install it using the following command:
+
+bash
+Copy code
+pip install requests
+Run the Tool: To start using Import API - Currency Converter, execute the Python script that contains the main() function. This function will prompt you for conversion details.
+
+bash
+Copy code
+python your_script.py
+Replace "your_script.py" with the actual name of your script.
+
+By following these steps, you will have successfully installed and configured Import API - Currency Converter on your local machine and will be ready to perform accurate and real-time currency and cryptocurrency conversions.
+
+vbnet
+Copy code
+
+These instructions guide users through the process of cloning the repository, navigating to the proj
 
 ## Usage
 
