@@ -32,7 +32,7 @@ To get started with **Import API - Currency Converter**, follow these steps:
 
 1. **Obtain an API Key:** Sign up for an API key from [CurrencyFreaks](https://currencyfreaks.com/). You will need this API key to access currency conversion data.
 
-2. ****Python:** This tool is written in Python, so you need to have Python installed on your system. You can download Python from the official [Python website](https://www.python.org/).
+2. **Python:** This tool is written in Python, so you need to have Python installed on your system. You can download Python from the official [Python website](https://www.python.org/).
 
 3. **Edit the Script:** Open your Python script and locate the `api_key` variable. Replace the placeholder with your obtained API key.
 
