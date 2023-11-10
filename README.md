@@ -15,7 +15,7 @@
 
 # About
 
-**Import API - Currency Converter** is a Python-based tool designed to streamline currency conversions by leveraging real-time exchange rate data from the CurrencyFreaks API. It serves as a valuable utility for a wide range of professional and personal scenarios, from optimizing international financial transactions to ensuring precise currency conversion accuracy.
+**Quadro** is a Python-based tool designed to streamline currency conversions by leveraging real-time exchange rate data from the CurrencyFreaks API. It serves as a valuable utility for a wide range of professional and personal scenarios, from optimizing international financial transactions to ensuring precise currency conversion accuracy.
 
 ## Key Features
 
