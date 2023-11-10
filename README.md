@@ -27,7 +27,7 @@
 
 To get started with **Import API - Quadro**, follow these steps:
 
-1. **Obtain an API Key:** Sign up for an API key from [CurrencyFreaks](https://currencyfreaks.com/). You will need this API key to access currency conversion data.
+1. **Obtain an API Key:** Sign up for an API key from [Open Exchange Rates](https://openexchangerates.org/). You will need this API key to access currency conversion data.
 
 2. **Python:** This tool is written in Python, so you need to have Python installed on your system. You can download Python from the official [Python website](https://www.python.org/).
 
