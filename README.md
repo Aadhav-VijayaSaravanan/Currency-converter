@@ -61,7 +61,7 @@ Follow these step-by-step instructions to install **Import API - Currency Conver
 
    1. Open the Python script located within the project directory.
 
-   2. Locate the `api_key` variable in the api.py Python script.
+   2. Locate the `api_key` variable in the `api.py` Python script.
 
    3. Replace the placeholder with the API key you obtained from CurrencyFreaks.
 
