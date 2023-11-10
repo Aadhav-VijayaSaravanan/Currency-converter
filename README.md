@@ -32,25 +32,14 @@ To get started with **Import API - Currency Converter**, follow these steps:
 
 1. **Obtain an API Key:** Sign up for an API key from [CurrencyFreaks](https://currencyfreaks.com/). You will need this API key to access currency conversion data.
 
-2. **Edit the Script:** Open your Python script and locate the `api_key` variable. Replace the placeholder with your obtained API key.
+2. ****Python:** This tool is written in Python, so you need to have Python installed on your system. You can download Python from the official [Python website](https://www.python.org/).
 
-3. **Install Dependencies:** Ensure you have the `requests` library installed. You can install it using the following command:
+3. **Edit the Script:** Open your Python script and locate the `api_key` variable. Replace the placeholder with your obtained API key.
+
+4. **Install Dependencies:** Ensure you have the `requests` library installed. You can install it using the following command:
 
    ```bash
    pip install requests
-
-### Prerequisites
-
-Before you can use **Import API - Currency Converter**, ensure that you have the following prerequisites in place:
-
-- **Python:** The tool is written in Python, so you need to have Python installed on your system. You can download Python from the official [Python website](https://www.python.org/).
-
-- **API Key:** To access real-time currency conversion data, you must obtain an API key from [CurrencyFreaks](https://currencyfreaks.com/).
-
-- **Requests Library:** The tool relies on the `requests` library to make API requests. Make sure it's installed by running:
-
-  ```bash
-  pip install requests
 
 ### Installation
 
