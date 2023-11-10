@@ -88,7 +88,20 @@ Follow these step-by-step instructions to install **Import API - Currency Conver
 
 ## Usage
 
-Explain how to use your project. Provide code examples, screenshots, or gifs to demonstrate its functionality.
+   Here's a sample code snippet that shows how to use the Currency Converter in your Python script:
+
+   ```python
+   # Import the Currency Converter module
+   from currency_converter import CurrencyConverter
+
+   # Create an instance of the CurrencyConverter class
+   converter = CurrencyConverter()
+
+   # Convert 100 USD to EUR
+   result = converter.convert(100, 'USD', 'EUR')
+
+   # Print the result
+   print(f"100 USD is approximately {result} EUR")
 
 ## API Usage
 
