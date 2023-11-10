@@ -14,7 +14,7 @@
 
 # About
 
-**Quadro** is a Python-based tool designed to streamline currency conversions by leveraging real-time exchange rate data from the CurrencyFreaks API. It serves as a valuable utility for a wide range of professional and personal scenarios, from optimizing international financial transactions to ensuring precise currency conversion accuracy.
+**Quadro** is a Python-based tool designed to streamline currency conversions by leveraging real-time exchange rate data from the OpenExchangeRates API. It serves as a valuable utility for a wide range of professional and personal scenarios, from optimizing international financial transactions to ensuring precise currency conversion accuracy.
 
 ## Key Features
 
@@ -60,7 +60,7 @@ Follow these step-by-step instructions to install **Import API - Currency Conver
 
    2. Locate the `api_key` variable in the `api.py` Python script.
 
-   3. Replace the placeholder with the API key you obtained from CurrencyFreaks.
+   3. Replace the placeholder with the API key you obtained from OpenExchangeRates.
 
    This step is essential for authenticating your access to the currency conversion API. Make sure to save your changes in the Python script after replacing the API key.
    
