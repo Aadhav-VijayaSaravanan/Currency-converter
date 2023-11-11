@@ -51,7 +51,7 @@ Or, you have the option to download the project as a ZIP file from the repositor
 2. **To enter the project directory, you can use the following command in your terminal:**
 
    ```bash
-   cd Eobard
+   cd Eobard-main
 3. **Editing the API Key**
 
    To configure your API key, follow these steps:
